@@ -1,0 +1,65 @@
+.c-page {
+  display: grid;
+  grid-template-columns: 260px auto;
+  grid-template-rows: 70px auto 300px;
+  min-height: 100vh;
+}
+
+.c-nav {
+  background-color: cornflowerblue;
+  display: grid;
+  justify-content: end;
+  align-content: end;
+}
+
+.c-nav--top {
+  grid-column-start: 1;
+  grid-column-end: span 2;
+  grid-row-start: 1;
+  grid-row-end: 1;
+}
+
+.c-sidebar {
+  background-color: sandybrown;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
+
+.c-sidebar--left {
+  grid-column-start: 1;
+  grid-column-end: 1;
+  grid-row-start: 2;
+  grid-row-end: span 2;
+}
+
+.c-content {
+  background-color: ghostwhite;
+  display: grid;
+}
+
+.c-content--right {
+  grid-column-start: 2;
+  grid-column-end: 2;
+  grid-row-start: 2;
+  grid-row-end: 2;
+}
+
+.c-content__text {
+  justify-self: center;
+  align-self: center;
+}
+
+.c-footer {
+  background-color: gainsboro;
+  display: grid;
+  justify-content: center;
+  align-content: end;
+}
+
+.c-footer--bottom {
+  grid-column-start: 2;
+  grid-column-end: 2;
+  grid-row-start: 3;
+  grid-row-end: 3;
+}

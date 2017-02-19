@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: "Courier New";
+}
+
+div {
+  background-color: chartreuse;
+}
+
+
+.c-text {
+  font-size: 30px;
+  color: dimgrey;
+}
+
+.c-text--rotated {
+  transform: rotate(-90deg);
+}
+
+.c-text--inverted {
+  color: white;
+}
+
+.c-page__guttered {
+  grid-gap: 10px;
+  background-color: black;
+}
