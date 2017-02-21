@@ -11,6 +11,16 @@
 - Specs were first published as a draft in April 2011, with the majority of the publishers being from Microsoft.
 - IE 10 was first browser to implement the spec (-ms prefix), and today both IE 11 and Edge have -ms prefixed implementations.
 
+## Terminology
+- https://css-tricks.com/snippets/css/complete-guide-grid/#grid-terminology
+- Grid container: `display: grid`
+- Grid item: direct children of grid container
+- Grid line: dividing lines of grid
+- Grid track: space between two adjacent lines
+- Grid cell: space between two adjacent vertical and horizontal lines (single unit)
+- Grid Area: space surrounded by four grid lines, can span multiple tracks
+
+
 ## Resources
 - [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Grid By Example](http://gridbyexample.com/examples/)
