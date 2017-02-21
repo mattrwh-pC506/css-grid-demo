@@ -5,7 +5,7 @@
 - Similar to flexbox, the source order of the grid items doesn’t matter. Placement is declared in CSS making it easy to rearrange based on viewport size.
 - It allows us to decouple layout definition from markup (e.g., bootstrap grid's `.row > .col-md-1` etc.)
 - Grid does not completely replace flexbox, though it can be used as a lightweight replacement for simple use cases. Overall, though, flexbox and grid can and should be used together. Grid is best used to define major layouts and Flexbox is best for aligning UI elements.
-  -- "working from the content out (flexbox) vs. working from the grid definition in". Grid defines a structure which controls how elements are placed whereas with flex, content display is controlled on a track by track basis.. [for more info](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/)
+ - "working from the content out (flexbox) vs. working from the grid definition in". Grid defines a structure which controls how elements are placed whereas with flex, content display is controlled on a track by track basis.. [for more info](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/)
 
 ## History
 
