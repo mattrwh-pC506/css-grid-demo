@@ -27,4 +27,5 @@
 - [Flexible Sized Grids](https://rachelandrew.co.uk/archives/2016/04/12/flexible-sized-grids-with-auto-fill-and-minmax/)
 - [Rachel Andrew Blog](https://rachelandrew.co.uk/archives/)
 - [alligator.io](https://alligator.io/css) - has some ok grid examples
+- [W3C specs](https://www.w3.org/TR/css-grid-1/)
 - [Browser Support](http://caniuse.com/#feat=css-grid)
