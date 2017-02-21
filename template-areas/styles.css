@@ -1,12 +1,26 @@
 .c-page {
   min-height: 100vh;
   background-color: black;
+
   display: grid;
   grid-template-columns: 260px auto;
   grid-template-rows: 70px auto 300px;
   grid-template-areas: "nav nav"
                        "sidebar content"
                        "sidebar footer";
+
+  /*display: grid;*/
+  /*grid-template: "nav nav" 70px*/
+                 /*"sidebar content" auto*/
+                 /*"sidebar footer" 300px /*/
+                 /*260px auto;*/
+
+  /*
+  grid: "nav nav" 70px
+        "sidebar content" auto
+        "sidebar footer" 300px /
+        260px auto;
+  */
 }
 
 .c-nav {
