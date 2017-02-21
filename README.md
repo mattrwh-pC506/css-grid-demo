@@ -1,6 +1,7 @@
 # CSS Grid Layout (a.k.a Grid)
 
 ## Introduction
+[(a much better intro than this one)](https://www.w3.org/TR/css-grid-1/#intro)
 - Unlike Flexbox, which is one-dimensional, Grid is two-dimensional. It gives us the ability to setup a grid and place elements on it with precision.
 - Similar to flexbox, the source order of the grid items doesn’t matter. Placement is declared in CSS making it easy to rearrange based on viewport size.
 - It allows us to decouple layout definition from markup (e.g., bootstrap grid's `.row > .col-md-1` etc.)
