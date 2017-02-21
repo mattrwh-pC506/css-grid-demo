@@ -8,7 +8,8 @@
  - "working from the content out (flexbox) vs. working from the grid definition in". Grid defines a structure which controls how elements are placed whereas with flex, content display is controlled on a track by track basis.. [for more info](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/)
 
 ## History
-
+- Specs were first published as a draft in April 2011, with the majority of the publishers being from Microsoft.
+- IE 10 was first browser to implement the spec (-ms prefix), and today both IE 11 and Edge have -ms prefixed implementations.
 
 ## Resources
 - [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
