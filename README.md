@@ -13,12 +13,12 @@
 
 ## Terminology
 - https://css-tricks.com/snippets/css/complete-guide-grid/#grid-terminology
-- Grid container: `display: grid`
-- Grid item: direct children of grid container
-- Grid line: dividing lines of grid
-- Grid track: space between two adjacent lines
-- Grid cell: space between two adjacent vertical and horizontal lines (single unit)
-- Grid Area: space surrounded by four grid lines, can span multiple tracks
+- **Grid container:** `display: grid`
+- **Grid item:** direct children of grid container
+- **Grid line:** dividing lines of grid
+- **Grid track:** space between two adjacent lines
+- **Grid cell:** space between two adjacent vertical and horizontal lines (single unit)
+- **Grid Area:** space surrounded by four grid lines, can span multiple tracks
 
 
 ## Resources
